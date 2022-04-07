@@ -1,2 +1,2 @@
 # NodeJS
-!(Captura.PNG)
+![](Captura.PNG)
